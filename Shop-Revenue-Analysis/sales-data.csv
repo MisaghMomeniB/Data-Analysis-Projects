@@ -1,0 +1,101 @@
+Product ID,Product Name,Category,Price,Stock,Description,Supplier
+1001,Sample Product 1,Sportswear,11.5,51,This is a detailed description for Sample Product 1.,Samsung
+1002,Sample Product 2,Furniture,13.0,52,This is a detailed description for Sample Product 2.,Nike
+1003,Sample Product 3,Appliances,14.5,53,This is a detailed description for Sample Product 3.,IKEA
+1004,Sample Product 4,Books,16.0,54,This is a detailed description for Sample Product 4.,Philips
+1005,Sample Product 5,Toys,17.5,55,This is a detailed description for Sample Product 5.,Sony
+1006,Sample Product 6,Groceries,19.0,56,This is a detailed description for Sample Product 6.,Adidas
+1007,Sample Product 7,Beauty,20.5,57,This is a detailed description for Sample Product 7.,LG
+1008,Sample Product 8,Electronics,22.0,58,This is a detailed description for Sample Product 8.,Panasonic
+1009,Sample Product 9,Sportswear,23.5,59,This is a detailed description for Sample Product 9.,Random Supplier
+1010,Sample Product 10,Furniture,25.0,60,This is a detailed description for Sample Product 10.,Apple Inc.
+1011,Sample Product 11,Appliances,26.5,61,This is a detailed description for Sample Product 11.,Samsung
+1012,Sample Product 12,Books,28.0,62,This is a detailed description for Sample Product 12.,Nike
+1013,Sample Product 13,Toys,29.5,63,This is a detailed description for Sample Product 13.,IKEA
+1014,Sample Product 14,Groceries,31.0,64,This is a detailed description for Sample Product 14.,Philips
+1015,Sample Product 15,Beauty,32.5,65,This is a detailed description for Sample Product 15.,Sony
+1016,Sample Product 16,Electronics,34.0,66,This is a detailed description for Sample Product 16.,Adidas
+1017,Sample Product 17,Sportswear,35.5,67,This is a detailed description for Sample Product 17.,LG
+1018,Sample Product 18,Furniture,37.0,68,This is a detailed description for Sample Product 18.,Panasonic
+1019,Sample Product 19,Appliances,38.5,69,This is a detailed description for Sample Product 19.,Random Supplier
+1020,Sample Product 20,Books,40.0,50,This is a detailed description for Sample Product 20.,Apple Inc.
+1021,Sample Product 21,Toys,41.5,51,This is a detailed description for Sample Product 21.,Samsung
+1022,Sample Product 22,Groceries,43.0,52,This is a detailed description for Sample Product 22.,Nike
+1023,Sample Product 23,Beauty,44.5,53,This is a detailed description for Sample Product 23.,IKEA
+1024,Sample Product 24,Electronics,46.0,54,This is a detailed description for Sample Product 24.,Philips
+1025,Sample Product 25,Sportswear,47.5,55,This is a detailed description for Sample Product 25.,Sony
+1026,Sample Product 26,Furniture,49.0,56,This is a detailed description for Sample Product 26.,Adidas
+1027,Sample Product 27,Appliances,50.5,57,This is a detailed description for Sample Product 27.,LG
+1028,Sample Product 28,Books,52.0,58,This is a detailed description for Sample Product 28.,Panasonic
+1029,Sample Product 29,Toys,53.5,59,This is a detailed description for Sample Product 29.,Random Supplier
+1030,Sample Product 30,Groceries,55.0,60,This is a detailed description for Sample Product 30.,Apple Inc.
+1031,Sample Product 31,Beauty,56.5,61,This is a detailed description for Sample Product 31.,Samsung
+1032,Sample Product 32,Electronics,58.0,62,This is a detailed description for Sample Product 32.,Nike
+1033,Sample Product 33,Sportswear,59.5,63,This is a detailed description for Sample Product 33.,IKEA
+1034,Sample Product 34,Furniture,61.0,64,This is a detailed description for Sample Product 34.,Philips
+1035,Sample Product 35,Appliances,62.5,65,This is a detailed description for Sample Product 35.,Sony
+1036,Sample Product 36,Books,64.0,66,This is a detailed description for Sample Product 36.,Adidas
+1037,Sample Product 37,Toys,65.5,67,This is a detailed description for Sample Product 37.,LG
+1038,Sample Product 38,Groceries,67.0,68,This is a detailed description for Sample Product 38.,Panasonic
+1039,Sample Product 39,Beauty,68.5,69,This is a detailed description for Sample Product 39.,Random Supplier
+1040,Sample Product 40,Electronics,70.0,50,This is a detailed description for Sample Product 40.,Apple Inc.
+1041,Sample Product 41,Sportswear,71.5,51,This is a detailed description for Sample Product 41.,Samsung
+1042,Sample Product 42,Furniture,73.0,52,This is a detailed description for Sample Product 42.,Nike
+1043,Sample Product 43,Appliances,74.5,53,This is a detailed description for Sample Product 43.,IKEA
+1044,Sample Product 44,Books,76.0,54,This is a detailed description for Sample Product 44.,Philips
+1045,Sample Product 45,Toys,77.5,55,This is a detailed description for Sample Product 45.,Sony
+1046,Sample Product 46,Groceries,79.0,56,This is a detailed description for Sample Product 46.,Adidas
+1047,Sample Product 47,Beauty,80.5,57,This is a detailed description for Sample Product 47.,LG
+1048,Sample Product 48,Electronics,82.0,58,This is a detailed description for Sample Product 48.,Panasonic
+1049,Sample Product 49,Sportswear,83.5,59,This is a detailed description for Sample Product 49.,Random Supplier
+1050,Sample Product 50,Furniture,85.0,60,This is a detailed description for Sample Product 50.,Apple Inc.
+1051,Sample Product 51,Appliances,86.5,61,This is a detailed description for Sample Product 51.,Samsung
+1052,Sample Product 52,Books,88.0,62,This is a detailed description for Sample Product 52.,Nike
+1053,Sample Product 53,Toys,89.5,63,This is a detailed description for Sample Product 53.,IKEA
+1054,Sample Product 54,Groceries,91.0,64,This is a detailed description for Sample Product 54.,Philips
+1055,Sample Product 55,Beauty,92.5,65,This is a detailed description for Sample Product 55.,Sony
+1056,Sample Product 56,Electronics,94.0,66,This is a detailed description for Sample Product 56.,Adidas
+1057,Sample Product 57,Sportswear,95.5,67,This is a detailed description for Sample Product 57.,LG
+1058,Sample Product 58,Furniture,97.0,68,This is a detailed description for Sample Product 58.,Panasonic
+1059,Sample Product 59,Appliances,98.5,69,This is a detailed description for Sample Product 59.,Random Supplier
+1060,Sample Product 60,Books,100.0,50,This is a detailed description for Sample Product 60.,Apple Inc.
+1061,Sample Product 61,Toys,101.5,51,This is a detailed description for Sample Product 61.,Samsung
+1062,Sample Product 62,Groceries,103.0,52,This is a detailed description for Sample Product 62.,Nike
+1063,Sample Product 63,Beauty,104.5,53,This is a detailed description for Sample Product 63.,IKEA
+1064,Sample Product 64,Electronics,106.0,54,This is a detailed description for Sample Product 64.,Philips
+1065,Sample Product 65,Sportswear,107.5,55,This is a detailed description for Sample Product 65.,Sony
+1066,Sample Product 66,Furniture,109.0,56,This is a detailed description for Sample Product 66.,Adidas
+1067,Sample Product 67,Appliances,110.5,57,This is a detailed description for Sample Product 67.,LG
+1068,Sample Product 68,Books,112.0,58,This is a detailed description for Sample Product 68.,Panasonic
+1069,Sample Product 69,Toys,113.5,59,This is a detailed description for Sample Product 69.,Random Supplier
+1070,Sample Product 70,Groceries,115.0,60,This is a detailed description for Sample Product 70.,Apple Inc.
+1071,Sample Product 71,Beauty,116.5,61,This is a detailed description for Sample Product 71.,Samsung
+1072,Sample Product 72,Electronics,118.0,62,This is a detailed description for Sample Product 72.,Nike
+1073,Sample Product 73,Sportswear,119.5,63,This is a detailed description for Sample Product 73.,IKEA
+1074,Sample Product 74,Furniture,121.0,64,This is a detailed description for Sample Product 74.,Philips
+1075,Sample Product 75,Appliances,122.5,65,This is a detailed description for Sample Product 75.,Sony
+1076,Sample Product 76,Books,124.0,66,This is a detailed description for Sample Product 76.,Adidas
+1077,Sample Product 77,Toys,125.5,67,This is a detailed description for Sample Product 77.,LG
+1078,Sample Product 78,Groceries,127.0,68,This is a detailed description for Sample Product 78.,Panasonic
+1079,Sample Product 79,Beauty,128.5,69,This is a detailed description for Sample Product 79.,Random Supplier
+1080,Sample Product 80,Electronics,130.0,50,This is a detailed description for Sample Product 80.,Apple Inc.
+1081,Sample Product 81,Sportswear,131.5,51,This is a detailed description for Sample Product 81.,Samsung
+1082,Sample Product 82,Furniture,133.0,52,This is a detailed description for Sample Product 82.,Nike
+1083,Sample Product 83,Appliances,134.5,53,This is a detailed description for Sample Product 83.,IKEA
+1084,Sample Product 84,Books,136.0,54,This is a detailed description for Sample Product 84.,Philips
+1085,Sample Product 85,Toys,137.5,55,This is a detailed description for Sample Product 85.,Sony
+1086,Sample Product 86,Groceries,139.0,56,This is a detailed description for Sample Product 86.,Adidas
+1087,Sample Product 87,Beauty,140.5,57,This is a detailed description for Sample Product 87.,LG
+1088,Sample Product 88,Electronics,142.0,58,This is a detailed description for Sample Product 88.,Panasonic
+1089,Sample Product 89,Sportswear,143.5,59,This is a detailed description for Sample Product 89.,Random Supplier
+1090,Sample Product 90,Furniture,145.0,60,This is a detailed description for Sample Product 90.,Apple Inc.
+1091,Sample Product 91,Appliances,146.5,61,This is a detailed description for Sample Product 91.,Samsung
+1092,Sample Product 92,Books,148.0,62,This is a detailed description for Sample Product 92.,Nike
+1093,Sample Product 93,Toys,149.5,63,This is a detailed description for Sample Product 93.,IKEA
+1094,Sample Product 94,Groceries,151.0,64,This is a detailed description for Sample Product 94.,Philips
+1095,Sample Product 95,Beauty,152.5,65,This is a detailed description for Sample Product 95.,Sony
+1096,Sample Product 96,Electronics,154.0,66,This is a detailed description for Sample Product 96.,Adidas
+1097,Sample Product 97,Sportswear,155.5,67,This is a detailed description for Sample Product 97.,LG
+1098,Sample Product 98,Furniture,157.0,68,This is a detailed description for Sample Product 98.,Panasonic
+1099,Sample Product 99,Appliances,158.5,69,This is a detailed description for Sample Product 99.,Random Supplier
+1100,Sample Product 100,Books,160.0,50,This is a detailed description for Sample Product 100.,Apple Inc.
