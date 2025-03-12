@@ -1,0 +1,101 @@
+match_id,date,home_team,away_team,home_goals,away_goals,possession_home,possession_away,shots_home,shots_away,passes_home,passes_away
+1,2023-01-01,Bayern Munich,Chelsea,1,2,56,53,18,9,323,451
+2,2023-01-02,Bayern Munich,Dortmund,0,2,53,53,18,16,425,679
+3,2023-01-03,Juventus,Bayern Munich,4,5,46,47,11,17,613,692
+4,2023-01-04,Arsenal,Bayern Munich,4,2,48,60,12,6,352,602
+5,2023-01-05,Liverpool,Manchester United,0,3,50,41,10,19,614,593
+6,2023-01-06,Arsenal,Dortmund,4,5,58,42,17,19,450,526
+7,2023-01-07,Juventus,Manchester United,1,3,49,45,9,5,334,665
+8,2023-01-08,Real Madrid,Chelsea,3,2,54,45,7,14,629,665
+9,2023-01-09,Manchester United,PSG,0,5,58,57,15,16,610,418
+10,2023-01-10,Barcelona,Real Madrid,3,2,59,44,6,18,444,666
+11,2023-01-11,Arsenal,Real Madrid,2,5,46,44,16,7,659,640
+12,2023-01-12,PSG,Manchester United,2,4,53,48,8,19,545,680
+13,2023-01-13,Bayern Munich,Barcelona,0,1,53,41,18,15,537,614
+14,2023-01-14,Juventus,Juventus,2,1,55,47,10,14,331,369
+15,2023-01-15,PSG,PSG,0,5,55,46,16,15,423,474
+16,2023-01-16,Real Madrid,Liverpool,1,0,52,53,13,15,596,614
+17,2023-01-17,Juventus,PSG,4,4,56,50,16,11,545,307
+18,2023-01-18,PSG,Dortmund,1,2,48,57,6,11,343,453
+19,2023-01-19,Arsenal,Arsenal,4,1,47,55,15,5,502,432
+20,2023-01-20,Arsenal,Manchester United,0,1,54,58,14,9,642,311
+21,2023-01-21,Bayern Munich,Arsenal,3,5,51,43,7,5,359,411
+22,2023-01-22,PSG,Barcelona,5,2,40,41,12,18,474,538
+23,2023-01-23,Juventus,Juventus,0,1,59,43,5,20,644,672
+24,2023-01-24,Arsenal,Juventus,0,1,51,43,5,6,653,350
+25,2023-01-25,Manchester United,Manchester United,1,2,52,60,10,17,474,647
+26,2023-01-26,Bayern Munich,Liverpool,0,1,56,44,8,10,323,488
+27,2023-01-27,Bayern Munich,Barcelona,1,2,50,47,10,16,482,384
+28,2023-01-28,Chelsea,Barcelona,2,1,41,50,8,18,532,571
+29,2023-01-29,PSG,Bayern Munich,1,4,51,53,9,5,680,461
+30,2023-01-30,Arsenal,Bayern Munich,0,4,46,57,12,15,556,537
+31,2023-01-31,Dortmund,Arsenal,0,5,60,50,19,6,624,428
+32,2023-02-01,PSG,Dortmund,0,4,46,45,16,10,518,412
+33,2023-02-02,Arsenal,Real Madrid,5,5,41,43,12,15,362,560
+34,2023-02-03,Real Madrid,Juventus,0,0,56,55,9,10,428,413
+35,2023-02-04,Real Madrid,PSG,5,0,54,56,11,14,397,686
+36,2023-02-05,Juventus,Juventus,4,5,43,53,12,18,522,662
+37,2023-02-06,Bayern Munich,Arsenal,5,2,45,50,13,16,359,459
+38,2023-02-07,Liverpool,Bayern Munich,3,4,59,40,19,13,337,324
+39,2023-02-08,Dortmund,Liverpool,1,1,51,40,8,13,603,311
+40,2023-02-09,Liverpool,Liverpool,5,5,52,47,8,6,596,682
+41,2023-02-10,Juventus,Juventus,5,3,60,43,15,10,655,578
+42,2023-02-11,Dortmund,Dortmund,2,3,42,48,16,6,618,479
+43,2023-02-12,Liverpool,Liverpool,4,1,41,45,8,17,536,400
+44,2023-02-13,Arsenal,Juventus,1,4,45,44,18,14,649,558
+45,2023-02-14,Bayern Munich,PSG,2,2,54,50,18,6,339,557
+46,2023-02-15,Bayern Munich,Bayern Munich,4,0,54,41,9,18,563,463
+47,2023-02-16,Juventus,Chelsea,4,1,47,48,19,14,673,522
+48,2023-02-17,Arsenal,Dortmund,4,4,54,51,15,15,445,473
+49,2023-02-18,Manchester United,PSG,3,4,60,41,10,7,607,487
+50,2023-02-19,Chelsea,Arsenal,1,3,51,51,5,16,595,452
+51,2023-02-20,Manchester United,Chelsea,4,5,52,50,19,6,476,397
+52,2023-02-21,Juventus,Chelsea,4,5,56,47,13,12,684,557
+53,2023-02-22,Juventus,Chelsea,4,0,55,55,7,6,350,668
+54,2023-02-23,Bayern Munich,Juventus,3,0,42,48,15,9,462,653
+55,2023-02-24,Real Madrid,Chelsea,0,0,56,52,19,16,605,448
+56,2023-02-25,Real Madrid,PSG,4,0,53,58,20,13,470,645
+57,2023-02-26,Arsenal,Real Madrid,4,3,48,41,17,9,430,348
+58,2023-02-27,Arsenal,Real Madrid,1,5,48,51,20,19,367,491
+59,2023-02-28,Juventus,Juventus,5,1,53,52,9,11,672,686
+60,2023-03-01,PSG,Bayern Munich,0,0,40,50,11,10,384,396
+61,2023-03-02,Real Madrid,Liverpool,2,5,49,40,13,10,586,355
+62,2023-03-03,Bayern Munich,Arsenal,4,0,56,60,17,19,639,613
+63,2023-03-04,PSG,Liverpool,5,0,54,43,18,11,317,522
+64,2023-03-05,Chelsea,PSG,2,5,50,47,9,7,627,622
+65,2023-03-06,Bayern Munich,Bayern Munich,0,2,42,58,16,17,368,373
+66,2023-03-07,PSG,PSG,1,3,58,57,11,9,435,362
+67,2023-03-08,Arsenal,Real Madrid,3,1,47,59,11,5,429,530
+68,2023-03-09,PSG,Dortmund,1,5,60,52,7,20,682,658
+69,2023-03-10,Bayern Munich,Real Madrid,2,5,42,56,5,5,540,427
+70,2023-03-11,Liverpool,Real Madrid,2,1,53,49,10,17,650,563
+71,2023-03-12,Dortmund,Chelsea,4,3,47,59,18,13,603,437
+72,2023-03-13,Manchester United,Barcelona,2,4,42,59,11,15,412,514
+73,2023-03-14,Liverpool,Bayern Munich,5,2,44,58,8,7,662,490
+74,2023-03-15,Bayern Munich,Manchester United,1,3,42,49,14,17,489,469
+75,2023-03-16,Manchester United,Juventus,5,3,60,50,14,11,421,649
+76,2023-03-17,Bayern Munich,PSG,2,1,48,55,16,5,335,391
+77,2023-03-18,PSG,Arsenal,0,4,44,55,14,15,545,496
+78,2023-03-19,PSG,Arsenal,0,0,43,45,5,16,355,579
+79,2023-03-20,Dortmund,Real Madrid,2,2,42,48,18,6,456,379
+80,2023-03-21,Bayern Munich,Manchester United,4,4,55,54,14,16,432,329
+81,2023-03-22,Juventus,Arsenal,4,1,53,42,5,18,513,325
+82,2023-03-23,Barcelona,Juventus,3,4,41,44,19,11,415,443
+83,2023-03-24,Dortmund,Arsenal,4,4,50,41,20,20,372,320
+84,2023-03-25,Dortmund,Bayern Munich,3,4,55,47,7,15,502,480
+85,2023-03-26,Arsenal,Liverpool,4,1,46,49,19,19,458,519
+86,2023-03-27,Bayern Munich,Arsenal,5,5,58,52,14,16,538,620
+87,2023-03-28,PSG,Real Madrid,0,2,44,58,20,14,477,571
+88,2023-03-29,Real Madrid,Dortmund,2,0,44,55,13,11,372,521
+89,2023-03-30,Juventus,Arsenal,1,2,49,40,12,19,508,391
+90,2023-03-31,Manchester United,Manchester United,4,5,42,52,8,16,332,400
+91,2023-04-01,Arsenal,Real Madrid,3,1,58,55,18,15,372,528
+92,2023-04-02,PSG,Juventus,0,2,53,48,19,9,479,570
+93,2023-04-03,Arsenal,Liverpool,4,5,57,55,8,7,328,682
+94,2023-04-04,PSG,Dortmund,5,5,45,56,10,17,594,620
+95,2023-04-05,Dortmund,Barcelona,4,0,58,44,11,15,353,488
+96,2023-04-06,Juventus,Real Madrid,5,4,50,56,5,7,698,685
+97,2023-04-07,Dortmund,Dortmund,5,2,43,48,13,17,380,645
+98,2023-04-08,PSG,Chelsea,3,3,46,52,12,13,391,618
+99,2023-04-09,Real Madrid,Juventus,1,0,52,49,17,18,359,522
+100,2023-04-10,Juventus,Liverpool,0,0,52,49,15,9,391,582
