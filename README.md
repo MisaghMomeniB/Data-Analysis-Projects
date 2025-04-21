@@ -1,3 +1,5 @@
+![github banner](https://github.com/user-attachments/assets/1b31d2a2-ee44-4b0d-a1fc-bc108888f191)
+
 ## 📊 Data Analysis Projects  
 
 Welcome to the **Data Analysis Projects** repository! 🚀  
